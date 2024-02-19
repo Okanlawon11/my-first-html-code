@@ -144,3 +144,27 @@
   cursor: pointer;
   margin-left: 48%;
 }
+
+.camp{
+  font-family: Arial;
+  font-size: 14px;
+}
+
+.tweet{
+  font-weight: bold;
+}
+
+.info{
+  color: rgb(100, 100, 100)
+}
+
+.web{
+  font-family: Arial;
+  width: 500px;
+  line-height: 20px;
+  margin-top: 0;
+}
+
+.chp{
+  color:rgb(29, 155, 240);
+}
